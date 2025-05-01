@@ -1,0 +1,3 @@
+cd ~/Desktop 
+ls
+python lens.py or python3 lens.py
